@@ -3,7 +3,7 @@
 **Discord Video Compressor** is a cross-platform GUI tool that lets you easily reduce video size to match Discord’s upload limits.  
 It supports drag-and-drop, batch processing, and quick presets for 10 MB, 50 MB, and 500 MB.
 
-![screenshot](docs/screenshot.png)
+![screenshot](img/Capture d’écran 2025-08-09 044158.png)
 
 ## ✨ Features
 - Sleek **dark mode** interface (PySide6)
